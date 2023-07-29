@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <!--Gradient Pink-->
+    <color name="pink_00">#FF747C</color>
+    <color name="pink_10">#E66870</color>
+    <color name="pink_20">#CC5D63</color>
+    <color name="pink_40">#99464A</color>
+    <color name="pink_60">#662E32</color>
+    <color name="pink_80">#331719</color>
+
+    <!--Gradient Purple-->
+    <color name="purple_00">#844076</color>
+    <color name="purple_10">#773A6A</color>
+    <color name="purple_20">#6A335E</color>
+    <color name="purple_40">#6A335E</color>
+    <color name="purple_60">#351A2F</color>
+    <color name="purple_80">#1A0D18</color>
+
+    <!--Gradient Black-->
+    <color name="black_00">#0D000000</color>
+    <color name="black_10">#19000000</color>
+    <color name="black_20">#34000000</color>
+    <color name="black_30">#66000000</color>
+    <color name="black_40">#CD000000</color>
+
+    <!--Gradient Blue-->
+    <color name="blue_00">#FF039BE5</color>
+    <color name="blue_10">#FF01579B</color>
+    <color name="blue_20">#FF40C4FF</color>
+    <color name="blue_40">#FF00B0FF</color>
+</resources>
